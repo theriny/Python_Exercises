@@ -5,8 +5,13 @@ Created on Sun Aug 28 23:43:21 2022
 @author: theri
 """
 import math
-# Add any extra import statements you may need here
-# Add any helper functions you may need here
+'''
+Example Input Data
+
+inputDict =  {"a": 10,"b": 20,"c": 3,"d": 2,"e": 9}
+n = 1 
+'''
+
 
 def return_smallest_key(inputDict, n):
   
